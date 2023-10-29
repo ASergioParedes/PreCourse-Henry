@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es mi primer repositorio de github
+Este es mi primer repositiorio en git hub desde mi comptudora local.
